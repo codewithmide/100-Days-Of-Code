@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - OLUMIDE MICHEAL
 
-The log of my #100DaysOfCode challenge. Started on [June 22, Saturday, 2022].
+The log of my #100DaysOfCode challenge. Started on [July 18, Monday, 2022].
 
 ## Log
 
